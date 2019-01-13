@@ -91,7 +91,8 @@ var phone = '79998887766'; //номер телефона из поля форм�
 var backUrl = window.location.href; //здесь может быть любой стандартный обработчик. Например, отправка заявки на почту
 var form_title = 'Заказ звонка'; //название формы, которе будет проговариваться при звонке
 var cookiesBasket = window.CallKeeper ? CallKeeper.f.justCookies() : encodeURIComponent('current:::typ=utm|||src=actioncall|||mdm=cpc|||cmp=lpnoscript|||cnt=(none)|||trm=(none)^#^#session:::cpg=https://example.com/example/^#^#'); // в случае если код CallKeeper не подключен - статичные cookies
-var args = 'isSend&widgetHash='+'xxxxxxxxxxxxxxx'+'&phone='+phone+'&backUrl='+backUrl+'&cookiesBasket='+cookiesBasket+'&form_title='+form_title;
+var widgetHash = 'xxxxxxxxxxxxxxxxx';
+var args = 'isSend&widgetHash='+widgetHash+'&phone='+phone+'&backUrl='+backUrl+'&cookiesBasket='+cookiesBasket+'&form_title='+form_title;
 
 $.post( callkeeperUrl, args, function( data ) {
 	console.log(data);
