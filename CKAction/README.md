@@ -1,6 +1,8 @@
 # CKAction
 Это специальный endpoint API CallKeeper для простого запуска звонков с форм на сайте.
 
+Пример [в конце](#пример-обработчика-формы).
+
 ```
 https://api.callkeeper.ru/formReceiver
 ```
