@@ -1,0 +1,691 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("fonts/OpenSans-Regular.eot");
+    src: url("fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/OpenSans-Regular.woff") format("woff"),
+    url("fonts/OpenSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("fonts/OpenSans-Bold.eot");
+    src: url("fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/OpenSans-Bold.woff") format("woff"),
+    url("fonts/OpenSans-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    font-family: "OpenSansRegular";
+    height: 100vh;
+}
+
+header
+{
+    height: 95px;
+    display: flex;
+    justify-content: start;
+}
+
+.main-text,
+.form-area-wrapper,
+.form-area,
+.label-counter-wrapper,
+.success-block-internal
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-text
+{
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+.form-area-wrapper
+{
+    justify-content: center;
+    align-items: center;
+}
+
+.main-hide
+{
+    /*display: none;*/
+}
+
+.empty-div
+{
+    height: 50px;
+}
+
+.form-area
+{
+    display: flex;
+    justify-content: start;
+    /*margin-bottom: 83px;*/
+    margin-bottom: 43px;
+}
+
+.label-counter-wrapper
+{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.form-area textarea
+{
+    height: 65px;
+}
+
+.send-button
+{
+    background: #00AFF7;
+    /*box-shadow: 0 1px 3px 1px rgba(48,122,198,.26);*/
+    box-shadow: 0 0px 3px 3px #b0e8ff;
+    padding: 17px 43px;
+    border-radius: 25px;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: 0;
+}
+
+.send-button:hover
+{
+    box-shadow: none;
+}
+
+label
+{
+    font-size: 12px;
+    /*font-weight: bold;*/
+    font-weight: 500;
+    margin-bottom: 10px;
+    /*font-family: Helvetica Neue, Helvetica;*/
+    font-family: OpenSansBold;
+    color: #444444;
+}
+
+input
+{
+    padding-top: 12px;
+    padding-left: 13px;
+    padding-bottom: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #E8E8E8;
+    border-radius: 2px;
+    font-size: 14px;
+}
+
+textarea
+{
+    resize: none;
+    padding-top: 13px;
+    padding-left: 13px;
+    padding-bottom: 14px;
+    font-family: OpenSansRegular;
+    font-size: 14px;
+    border: 1px solid #E8E8E8;
+    border-radius: 2px;
+}
+
+input,
+textarea
+{
+    outline: none;
+    font-size: 14px;
+}
+
+h2
+{
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 26px;
+    /*font-family: Helvetica Neue, Helvetica;*/
+    font-family: OpenSansBold;
+    letter-spacing: 1px;
+}
+
+h3
+{
+    color: #333333;
+    font-size: 16px;
+}
+
+#counter
+{
+    color: #B5B5B5;
+    font-size: 12px;
+}
+
+::-webkit-input-placeholder
+{
+    color: #B5B5B5;
+    font-size: 14px;
+}
+::-moz-placeholder
+{
+    color: #B5B5B5;
+    font-size: 14px;
+}
+
+/* Firefox 19+ */
+:-moz-placeholder
+{
+    color: #B5B5B5;
+    font-size: 14px;
+}
+
+/* Firefox 18- */
+:-ms-input-placeholder
+{
+    color: #B5B5B5;
+    font-size: 14px;
+}
+
+textarea::-webkit-input-placeholder {
+    color: #B5B5B5;
+    font-size: 14px;
+    font-family: OpenSansRegular;
+}
+
+textarea:-moz-placeholder { /* Firefox 18- */
+    color: #B5B5B5;
+    font-size: 14px;
+    font-family: OpenSansRegular;
+}
+
+textarea::-moz-placeholder {  /* Firefox 19+ */
+    color: #B5B5B5;
+    font-size: 14px;
+    font-family: OpenSansRegular;
+}
+
+textarea:-ms-input-placeholder {
+    color: #B5B5B5;
+    font-size: 14px;
+    font-family: OpenSansRegular;
+}
+
+.img-wrapper
+{
+    padding-top: 31px;
+    padding-left: 6%;
+}
+
+img
+{
+    width: 160px;
+}
+
+.form-area
+{
+    width: 506px;
+}
+
+#phone-input
+{
+    /*width: 100%;*/
+}
+
+.ckWidgetInputWithFlags.error,
+.error
+{
+    border: 1px solid #dc706b !important;
+    border-color: #dc706b !important;
+}
+
+.ckStandartWidgetInput_inputBlock,
+.ckWidgetInputWithFlags
+{
+    border: 1px solid #E8E8E8 !important;
+}
+
+.iti-flag
+{
+    background-image: url("build/img/flags.png");
+}
+
+.success-block,
+.error-block
+{
+    display: none;
+}
+
+.success-text h2,
+.error-text h2
+{
+    margin-bottom: 27px;
+    text-align: center;
+}
+
+.success-block-internal,
+.error-block-internal
+{
+    align-items: center;
+    text-align: center;
+}
+
+.img-wrapper
+{
+    margin-bottom: 69px;
+}
+
+.success-small-text,
+.error-small-text
+{
+    font-size: 17px;
+    text-align: center;
+}
+
+.intl-tel-input
+{
+    margin-bottom: 12px;
+}
+
+#empty-input
+{
+    height: 16px;
+}
+
+.preloader img
+{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    display: none;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2 / 1),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi),
+only screen and (min-resolution: 2dppx)
+{
+    .iti-flag {background-image: url("build/img/flags@2x.png");}
+}
+
+#initialID .ckWidgetInputWithFlags
+{
+    border: 1px solid #E8E8E8 !important;
+}
+
+.ckWidgetInputWithFlags,
+.ckFlagMultiBox .ckWidgetInputWithFlags,
+#initialID .ckWidgetInputWithFlags
+{
+    width: 100% !important;
+    border-radius: 2px !important;
+    box-shadow: none !important;
+    display: block;
+    position: static !important;
+}
+
+.label-counter-wrapper
+{
+    margin-top: 32px !important;
+}
+
+.ckWidgetInputWithFlags_flagsBlock_donPointer_triangle
+{
+    display: none;
+}
+
+.ckWidgetInputWithFlags_flagsBlock_icon
+{
+    margin-left: 16px !important;
+}
+
+@media screen and (max-width: 1000px)
+{
+
+    h2
+    {
+        font-size: 46px;
+    }
+
+    h3
+    {
+        font-size: 29px;
+        line-height: 65px;
+    }
+
+    .main-text div,
+    .form-area
+    {
+        /*padding: 0 34px;*/
+        width: 100%;
+        /*margin-right: 38px;*/
+    }
+
+
+    label
+    {
+        font-size: 28px;
+        font-family: OpenSansBold;
+    }
+
+    ::-webkit-input-placeholder
+    {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+    ::-moz-placeholder
+    {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    /* Firefox 19+ */
+    :-moz-placeholder
+    {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    /* Firefox 18- */
+    :-ms-input-placeholder
+    {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    textarea::-webkit-input-placeholder {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    textarea:-moz-placeholder { /* Firefox 18- */
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    textarea::-moz-placeholder {  /* Firefox 19+ */
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    textarea:-ms-input-placeholder {
+        font-size: 37px;
+        font-family: OpenSansRegular;
+    }
+
+    input,
+    textarea
+    {
+        /*padding: 0;*/
+        /*padding-left: 31px;*/
+        font-size: 29px !important;
+        padding-left: 42px;
+        min-height: 90px;
+        line-height: 90px;
+        vertical-align: middle;
+        text-decoration: none;
+    }
+
+    textarea
+    {
+        font-size: 39px !important;
+    }
+
+
+    textarea:focus
+    {
+        height: 273px;
+    }
+
+    body
+    {
+        margin-left: 34px;
+        padding-right: 38px;
+    }
+
+    #counter
+    {
+        font-size: 28px;
+    }
+
+    img
+    {
+        width: 450px;
+    }
+
+    .img-wrapper
+    {
+        padding-left: 0px;
+        padding-bottom: 56px;
+    }
+
+    label
+    {
+        margin-bottom: 27px;
+    }
+
+    .send-button
+    {
+        height: 100px;
+        width: 305px;
+        line-height: 100px;
+        vertical-align: middle;
+        text-align: center;
+        font-size: 36px;
+        border-radius: 85px;
+        box-shadow: 0 0px 3px 6px #b0e8ff;
+        margin-bottom: 20px;
+    }
+
+    .main-text
+    {
+        margin-bottom: 95px;
+    }
+
+    header
+    {
+        height: 229px;
+    }
+
+    input
+    {
+        height: 90px;
+        margin-bottom: 53px;
+        /*width: 100%;*/
+        font-size: 44px!important;
+        font-family: OpenSansRegular;
+    }
+
+    .empty-div
+    {
+        height: 19px;
+    }
+
+    /*#phone-input*/
+    /*{*/
+        /*height: 117px !important;*/
+        /*padding-left: 113px !important;*/
+    /*}*/
+
+    .intl-tel-input
+    {
+        margin-bottom: 57px;
+    }
+
+    .intl-tel-input .selected-flag .iti-flag
+    {
+        left: 32px !important;
+    }
+
+    .selected-flag
+    {
+        width: 91px !important;
+    }
+
+    .preloader img
+    {
+        width: 150px;
+        height: auto;
+        left: 42% !important;
+    }
+
+    .label-counter-wrapper
+    {
+        margin-top: 120px !important;
+    }
+
+
+    .ckWidgetInputWithFlags_flagsBlock
+    {
+        width: 135px !important;
+    }
+
+    #ckWidgetInputWithFlags_inputBlockActiveLeft
+    {
+        border: none !important;
+    }
+
+    #ckWidgetInputWithFlags_inputBlockActiveLeft,
+    .ckWidgetInputWithFlags_inputBlock
+    {
+        font-size: 44px !important;
+    }
+
+    .ckWidgetInputWithFlags .ckWidgetInputWithFlags_inputBlock
+    {
+        margin-left: 35px !important;
+        max-width: 65% !important;
+        height: 114px !important;
+    }
+
+    .ckWidgetInputWithFlags_separator
+    {
+        height: 112px !important;
+    }
+
+    .ckWidgetInputWithFlags_flagsBlock_icon
+    {
+        margin-top: 35px !important;
+        margin-left: 31px !important;
+    }
+
+    .ckWidgetInputWithFlags_flagsBlock_donPointer_triangle
+    {
+        margin-top: 54px !important;
+        border-left: 8px solid transparent !important;
+        border-right: 8px solid transparent !important;
+        border-top: 12px solid rgb(87, 87, 87) !important;
+        margin-left: 15px !important;
+    }
+
+    .activeFlags
+    {
+        width: 425px !important;
+    }
+
+    .ckCountryFlagsSelect.activeFlags
+    {
+        max-height: 417px !important;
+    }
+
+    .ckCountryFlagsSelect_item
+    {
+        height: 78px !important;
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    .ckCountryFlagsSelect_item_country,
+    .ckCountryFlagsSelect_item_prefix
+    {
+        font-size: 28px !important;
+
+    }
+
+    .ckCountryFlagsSelect_item_checkbox
+    {
+        width: 28px !important;
+        height: 15px !important;
+        margin-top: 10px;
+        margin-right: 12px;
+    }
+
+    #initialID,
+    .ckWidgetInputWithFlags_flagsBlock
+    {
+        height: 114px !important;
+    }
+
+    .ckWidgetInputWithFlags_flagsBlock_icon,
+    .ckCountryFlagsSelect_item_icon
+    {
+        height: 45px !important;
+        width: 72px !important;
+        background-size: 72px 20169px !important;
+    }
+    .ckCountryFlagsSelect_item_icon
+    {
+        margin-left: 18px !important;
+    }
+
+    .ckCountryFlagsSelect
+    {
+        width: 100% !important;
+    }
+
+    .success-small-text
+    {
+        font-size: 34px !important;
+    }
+}
+

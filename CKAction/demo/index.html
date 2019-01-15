@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" href="favi.ico" type="image/x-icon">
+    <title>CallKeeper</title>
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<header>
+    <div class="img-wrapper">
+        <img src="images/logo-callkeeper-blue.svg" alt="CallKeeper">
+    </div>
+</header>
+<main class="main-hide">
+    <div class="main-text">
+        <div class="header-text-wrapper">
+            <h2>Демонстрация работы CKAction</h2>
+        </div>
+        <div>
+            <h3></h3>
+        </div>
+    </div>
+    <div class="form-area-wrapper">
+        <div id="CKForm" class="form-area">
+            <label for="form-name-input">НАЗВАНИЕ ФОРМЫ</label>
+            <input name="name" type="text" id="form-name-input" placeholder="Введите название формы"></br>
+
+            <label for="phone-input">НОМЕР ТЕЛЕФОНА</label>
+            <input name="name" type="tel" id="phone-input" placeholder="Введите номер телефона"></br>
+        </div>
+        <div class="send-button" id="sendButton">
+            Позвоните мне!
+        </div>
+    </div>
+</main>
+
+<div class="success-block">
+    <div class="success-block-internal">
+        <div>
+            <img src="images/success.svg" alt="">
+        </div>
+        <div class="success-text">
+            <h2>Форма отправлена!</h2>
+        </div>
+    </div>
+</div>
+
+<script>
+    var widgetHash = "cdcd5dbd06fad5302755ee3d9b81c0e2";
+
+    document.getElementById("sendButton").addEventListener("click", function (event) {
+        event.preventDefault();
+        var clientPhone = document.getElementById("phone-input").value.replace(/\D/g, '');
+        var formName = document.getElementById("form-name-input").value;
+        var cookies = typeof CallKeeper !== "undefined" ? CallKeeper.f.justCookies() : encodeURIComponent('current:::typ=utm|||src=actioncall|||mdm=cpc|||cmp=lpnoscript|||cnt=(none)|||trm=(none)^#^#session:::cpg=https://example.com/example/^#^#'); // в случае если код CallKeeper не подключен - статичные cookies
+        var callkeeper_url = "https://api.callkeeper.ru/formReceiver?isSend&widgetHash=" + widgetHash + "&phone=" + clientPhone + "&form_name=" + formName + '&backUrl=' + window.location.href + '&cookiesBasket=' + cookies;
+        $.post(callkeeper_url, function(data) {
+        }).always(function(data) {
+				console.log('status: ' + data.status);
+				console.log('statusText: ' + data.statusText);
+				console.log('responseText: ' + data.responseText);
+				$("main").hide(0);
+				$(".success-block").show(0);
+			});
+		});
+
+</script>
+<script async src="https://callkeeper.ru/w/?cdcd5dbd"></script>
+</body>
+</html>

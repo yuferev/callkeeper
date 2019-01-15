@@ -80,7 +80,7 @@ https://api.callkeeper.ru/formReceiver
 Название формы, которые будет проговариваться при звонке.
 
 ### `form_title`
-* *Alias [form_title](#form_name)*
+* *Alias [form_name](#form_name)*
 
 
 ## Пример обработчика формы
