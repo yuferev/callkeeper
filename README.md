@@ -1,3 +1,3 @@
 # CKAction
-[CKAction](/CKAction)
-[myTarget](/Documantation/README.md)
+* [CKAction](/CKAction)
+* [myTarget](/Documentation/README.md)
