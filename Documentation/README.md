@@ -14,7 +14,7 @@
 
 4. Вы будете направлены на сайт myTarget, где Вам предложат предоставить права чтения статистики для приложения CallKeeper.
 
-![Рис.2](https://github.com/yuferev/callkeeper/blob/master/Documentation/images/mytarget_2.png?raw=true)
+![Рис.2](images/mytarget_2.png?raw=true)
 
 После предоставления разрешения, Вы будете вновь направлены на страницу [страницу OK Lead Ads](https://callkeeper.ru/dashboard/ok.php), с основным интерфейсом управления формами.
 
