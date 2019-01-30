@@ -10,7 +10,7 @@
 
 Если при переходе на [страницу](https://callkeeper.ru/dashboard/ok.php) Вы видите сообщение об отсутствии подключенных аккаунтов, убедитесь, что Вы залогинены под своими учетными данными на сайтах myTarget и CallKeeper, и нажмите кнопку "Подключить".
 
-![Рис.1](https://github.com/yuferev/callkeeper/blob/master/Documentation/images/mytarget_1.png?raw=true)
+![Рис.1](images/mytarget_1.png?raw=true)
 
 4. Вы будете направлены на сайт myTarget, где Вам предложат предоставить права чтения статистики для приложения CallKeeper.
 
@@ -18,15 +18,15 @@
 
 После предоставления разрешения, Вы будете вновь направлены на страницу [страницу OK Lead Ads](https://callkeeper.ru/dashboard/ok.php), с основным интерфейсом управления формами.
 
-![Рис.3](https://github.com/yuferev/callkeeper/blob/master/Documentation/images/mytarget_3.png?raw=true)
+![Рис.3](images/mytarget_3.png?raw=true)
 
 5. Для создания привязки формы OK Lead Ads и виджета CallKeeper нажмите на кнопку "Добавить форму" и Вы перейдете на страницу создания/редактирования формы.
 
-![Рис.4](https://github.com/yuferev/callkeeper/blob/master/Documentation/images/mytarget_4.png?raw=true)
+![Рис.4](images/mytarget_4.png?raw=true)
 
 Чтобы создать форму выберите пользователя myTarget, виджет CallKeeper, введите произвольные название формы и адрес сайта, а также введите ID объявления, который можно найти на вкладке "Объявления" на странице myTarget.
 
-![Рис.5](https://github.com/yuferev/callkeeper/blob/master/Documentation/images/mytarget_5.png?raw=true)
+![Рис.5](images/mytarget_5.png?raw=true)
 
 Указание UTM-меток не является обязательным.
 
@@ -37,3 +37,5 @@
 К одному пользователю CallKeeper может быть привязано несколько конечных рекламодателей из myTarget. Привязка осуществляется не к рекламному агентству (у которого может быть несколько аккаунтов на myTarget), а именно к конечным пользователям.
 
 Существует ограничение – одного рекламодателя myTarget можно привязать только к одному user id в системе CallKeeper. При этом после привязки можно создавать неограниченное количество баннеров, с которых будут собираться лиды.
+
+[Вернуться](master/README.md)
