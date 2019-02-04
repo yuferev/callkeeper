@@ -1,4 +1,4 @@
-# Glossary
+# Glossary  [RU](Documentation/glossary/glossary_ru.md)
 
 |**Term**  | **Definition** |
 |--|--|
