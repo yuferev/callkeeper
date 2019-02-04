@@ -1,6 +1,6 @@
 # Glossary  [RU](/Documentation/glossary/glossary_ru.md)
 
-|**Term**  | **Definition** |
+|**Term** | **Definition** |
 |--|--|
 |AJAX|Asynchronous Javascript and XML - one of the methods of sending text data without page reload|
 |content-type|an attribute, defining the type of the data transmitted for a POST request (data dascription embedded in the body of a POST request)|
