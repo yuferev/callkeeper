@@ -65,7 +65,7 @@
 -   callkeeper-open-ckapp – открыта страница CKAPP
     
 
-## События отправляемые для Google analytics с сервера
+## События, отправляемые для Google analytics с сервера
 
 #### категория (eventCategory)
 
@@ -113,7 +113,7 @@
 -   formaction
     
 
-## События отправляемые для Google analytics с сайта клиента
+## События, отправляемые для Google analytics с сайта клиента
 
 #### категория (eventCategory)
 
@@ -170,7 +170,7 @@
 -   ckapp
     
 
-## События отправляемые для dataLayer с сайта клиента
+## События, отправляемые для dataLayer с сайта клиента
 
 #### имя события
 
