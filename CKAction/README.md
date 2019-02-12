@@ -99,5 +99,21 @@ $.post( callkeeperUrl, args, function( data ) {
 });
 ```
 
+## Рекомендация по использованию dataLayer совместно с ckAction:
+
+Чтобы получать события заказа звонка в dataLayer, необходимо после отправки запроса ckAction вызывать следующий код:
+
+```js
+window.dataLayer.push({
+    event: 'callkeeper-call_order-ckaction',
+    eventCategory: 'callkeeper',
+    eventAction: 'call_order',
+    eventLabel: 'ckaction'
+});
+```
+
+При условии того что на сайте установлен GTM после выполнения данного кода в объекте dataLayer должно появится следующее поле
+
+[Рис 1]()
 
 [Вернуться](/README.md)
