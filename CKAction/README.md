@@ -101,7 +101,7 @@ $.post( callkeeperUrl, args, function( data ) {
 
 ## Рекомендация по использованию dataLayer совместно с ckAction:
 
-Чтобы получать события заказа звонка в dataLayer, необходимо после отправки запроса ckAction вызывать следующий код:
+Чтобы получать события заказа звонка в dataLayer необходимо после отправки запроса ckAction вызывать следующий код:
 
 ```js
 window.dataLayer.push({
