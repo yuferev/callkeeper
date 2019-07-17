@@ -1,7 +1,7 @@
 # Documentation
 
 ## Callkeeper
-* [CKAction](/CKAction/CKAction.md)
+* [CKAction](/CKAction/README.md)
 ### Интеграции
 * [myTarget](/Documentation/integrations/myTarget/myTarget.md)
 
