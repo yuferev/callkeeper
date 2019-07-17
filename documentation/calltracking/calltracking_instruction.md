@@ -105,8 +105,7 @@
 
 Далее нужно добавить офис. Нажмите на кнопку «Добавить».
 
-    ![Рис.13](images/campaigns_add_office_new.png)
-    ![Рис.14](images/campaigns_add_office_full.png)
+![Рис.13](images/campaigns_add_office_new.png)/![Рис.14](images/campaigns_add_office_full.png)
 
 
 В списке офисов автоматически отобразятся ранее созданные офисы.
