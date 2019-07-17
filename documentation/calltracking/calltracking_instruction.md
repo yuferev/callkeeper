@@ -2,7 +2,7 @@
 
 ### Навигация:
 
-- [Регистрация в Calltracking](/## Регистрация в Calltracking) 
+- Регистрация в Calltracking 
 - Подменные номера
 - Добавить свой номер
 - Купить номер
@@ -105,7 +105,19 @@
 
 Далее нужно добавить офис. Нажмите на кнопку «Добавить».
 
-![Рис.13](images/campaigns_add_office_new.png) ![Рис.14](images/campaigns_add_office_full.png)
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Фотографии</title>
+ </head>
+ <body>
+  <p>
+    ![Рис.13](images/campaigns_add_office_new.png)
+    ![Рис.14](images/campaigns_add_office_full.png)
+  </p>
+ </body>
+</html>
+
 
 В списке офисов автоматически отобразятся ранее созданные офисы.
 
