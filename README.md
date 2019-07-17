@@ -5,6 +5,6 @@
 ### Интеграции
 * [myTarget](/Documentation/integrations/myTarget/myTarget.md)
 
-## Calltacking
+## Calltracking
 * [Calltracking](/documentation/calltracking/calltracking_instruction.md)
 
