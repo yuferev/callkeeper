@@ -1,7 +1,7 @@
 # Documentation
 
 ## Callkeeper
-* [CKAction](/ckaction)
+* [CKAction](documentation/ckaction)
 ### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget.md)
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ru.md)
