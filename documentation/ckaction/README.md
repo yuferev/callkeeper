@@ -60,7 +60,7 @@ https://api.callkeeper.ru/formReceiver
 
 Номер телефона клиента.
 
-Пример: `phone = '79998886655'`
+Пример: `phone = '79999999999'`
 
 ### `tel`
 * *Alias [phone](#phone)*
@@ -87,7 +87,7 @@ https://api.callkeeper.ru/formReceiver
 
 ```js
 var callkeeperUrl = '//api.callkeeper.ru/formReceiver';
-var phone = '79998887766'; //номер телефона из поля формы
+var phone = '79999999999'; //номер телефона из поля формы
 var backUrl = window.location.href; //здесь может быть любой стандартный обработчик. Например, отправка заявки на почту
 var form_title = 'Заказ звонка'; //название формы, которе будет проговариваться при звонке
 var cookiesBasket = window.CallKeeper ? CallKeeper.f.justCookies() : encodeURIComponent('current:::typ=utm|||src=actioncall|||mdm=cpc|||cmp=lpnoscript|||cnt=(none)|||trm=(none)^#^#session:::cpg=https://example.com/example/^#^#'); // в случае если код CallKeeper не подключен - статичные cookies
