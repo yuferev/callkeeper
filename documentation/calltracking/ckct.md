@@ -1,6 +1,6 @@
 # Calltracking
 
-* [Инструкция по настройке сервиса Calltracking](calltracking/calltracking_instruction.md) 
+* [Инструкция по настройке сервиса Calltracking](calltracking_instruction.md) 
 * Инструменты
 * Интеграции
   * [Facebook LeadAds](/callkeeper/documentation/integrations/facebook/facebook_ckct_ru.md)
