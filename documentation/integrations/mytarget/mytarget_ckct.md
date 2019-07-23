@@ -1,7 +1,7 @@
 # Настройка интеграции с myTarget Lead Ads 
 
 ### Примечание:
-Интеграция работает только для аккаунтов, перенесенных с callkeeper.ru/callkeeper.com
+`Интеграция работает только для аккаунтов, перенесенных с callkeeper.ru/callkeeper.com`
 
 * [Форма OK Lead Ads]()
 * [Интеграция с Calltracking]()
