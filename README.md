@@ -11,6 +11,7 @@ ________
 ### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget_ckct.md)
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ckct_ru.md)
+* [VK Forms]()
 
 ### Интструменты
 * [Виджет обратного звонка](/documentation/apps/widget/widget_ru.md)
