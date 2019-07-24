@@ -13,5 +13,5 @@ ________
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ckct_ru.md)
 
 ### Интструменты
-* [Виджет]()
+* [Виджет](/documentation/apps/widget/widget.md)
 * [Лидогенератор]()
