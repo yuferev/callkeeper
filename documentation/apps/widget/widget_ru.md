@@ -28,7 +28,7 @@ ________
 
 Прикрепите к виджету минимум один офис. Список офисов автоматических подгружается из номеров офисов. [Подробнее здесь](/documentation/calltracking/calltracking_instruction.md#Добавление-офисов).
 
-![Рис.5](images/add_office.png)
+![Рис.5](images/widget_add_office.png)
 
 ![Рис.6](images/widget_office_added_cut.png)
 
