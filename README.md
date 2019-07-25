@@ -15,4 +15,4 @@ ________
 
 ### Интструменты
 * [Виджет обратного звонка](/documentation/apps/widget/widget_ru.md)
-* [Лидогенератор]()
+* [Лидогенератор](/documentation/apps/leadgen/leadgen_ru.md)
