@@ -3,8 +3,8 @@
 ## Callkeeper
 * [CKAction](documentation/ckaction)
 ### Интеграции
-* [myTarget](/documentation/integrations/mytarget/mytarget.md)
-* [Facebook LeadAds](documentation/integrations/facebook/facebook_ru.md)
+* [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
+* [Facebook LeadAds](documentation/integrations/facebook/facebook_ru.md#Настройка-интеграции-с-Facebook-LeadAds)
 ________
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
