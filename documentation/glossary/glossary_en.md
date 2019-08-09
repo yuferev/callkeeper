@@ -39,3 +39,5 @@
 |URL|Uniform Resource Locator - the address of a resource in the internet|
 |utm-tags|Urchin Tracking Module - special tags in the address line of a website or a page, used to track the source of traffic|
 |VoIP|(also voice over IP, VoIP or IP telephony) - one of particular names of the technology; contains all options for transmitting voice and video over the network (including movie streaming, surveillance, webinars, etc.)|
+
+[Back on main page](/README.md#documentation)
