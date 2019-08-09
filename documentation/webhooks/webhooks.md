@@ -151,7 +151,7 @@
 
 ## Проверка webhook
 
-Вы можете воспользоваться сервисом <a href="http://www.webhook.site" target="_blank">webhook.site</a> для проверки отправки вебхуков, их содержимого и формата. 
+Вы можете воспользоваться сервисом <p><a href="http://www.webhook.site" target="_blank">webhook.site</a></p> для проверки отправки вебхуков, их содержимого и формата. 
 Скопируйте уникальный сгенерированный адрес и вставьте в строку адреса для вебхуков на callkeeper.ru - Профиль/WebhookCall
 
 ![Рис.](images/webhook_ck.png)
