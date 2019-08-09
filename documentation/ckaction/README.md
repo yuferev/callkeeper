@@ -116,4 +116,4 @@ window.dataLayer.push({
 
 ![Рис 1](images/ckAction_1.png)
 
-[Вернуться](/README.md)
+[Вернуться на главную](/README.md#documentation)
