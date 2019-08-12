@@ -17,7 +17,7 @@
 ________
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
-* [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#настройка-перезвона-с-calltracking)
+* [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#автозвонок-по-неуспешным-звонкам-на-calltracking)
 
 ### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget_ckct.md#Настройка-интеграции-с-myTarget-Lead-Ads)
