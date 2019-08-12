@@ -18,12 +18,12 @@ ________
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
 * [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#настройка-перезвона-с-calltracking)
-* [Calltouch](/documentation/integrations/calltouch/calltouch_ct.md#интеграция-с-calltouch)
 
 ### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget_ckct.md#Настройка-интеграции-с-myTarget-Lead-Ads)
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ckct_ru.md#Настройка-интеграции-с-Facebook-LeadAds)
 * [VK Leads](/documentation/integrations/vk_leads/vk_leads_ckct_ru.md#Интеграция-с-VK-Leads)
+* [Calltouch](/documentation/integrations/calltouch/calltouch_ct.md#интеграция-с-calltouch)
 
 ### Инструменты
 * [Виджет обратного звонка](/documentation/apps/widget/widget_ru.md#Виджет-обратного-звонка-Calltracking)
