@@ -82,48 +82,48 @@ ______
 ```
 ### inbound - информация о текущем запросе
 
-inbound.requestedType - запрошенный тип
-inbound.requestedEntity - вызванная сущность 
-inbound.requestedMethod - вызванный метод апи
-inbound.requestedVersion - использованная версия апи
-inbound.requestedParams.requirePage - отображаемая страница
-inbound.requestedParams.startDate - начало периода
-inbound.requestedParams.endDate - конец периода
-inbound.pageLength - максимальное количество звонков на одной странице
-inbound.totalLength - общее количество звонков за указанный в запросе период
-inbound.ofPages - всего страниц
-inbound.contentLength - длина контента на странице
+- inbound.requestedType - запрошенный тип
+- inbound.requestedEntity - вызванная сущность 
+- inbound.requestedMethod - вызванный метод апи
+- inbound.requestedVersion - использованная версия апи
+- inbound.requestedParams.requirePage - отображаемая страница
+- inbound.requestedParams.startDate - начало периода
+- inbound.requestedParams.endDate - конец периода
+- inbound.pageLength - максимальное количество звонков на одной странице
+- inbound.totalLength - общее количество звонков за указанный в запросе период
+- inbound.ofPages - всего страниц
+- inbound.contentLength - длина контента на странице
 
 ### info - информация о возможных запросах к АПИ
 
-info.entities - каждое название свойства объекта соответствует названию сущности апи, а значение соответствует методам этой сущности.
-info.types - возможные форматы ответа
-info.versions - возможные версии АПИ
+- info.entities - каждое название свойства объекта соответствует названию сущности апи, а значение соответствует методам этой сущности.
+- info.types - возможные форматы ответа
+- info.versions - возможные версии АПИ
 
 ### payload - запрашиваемые данные, в данном случае звонки					
-payload[].city - город клиента
-payload[].site - сайт
-payload[].state - статус звонка
-payload[].callId - идентификатор звонка 
-payload[].device - устройство
-payload[].record - запись звонка
-payload[].region - регион
-payload[].tagsId - массив id тэгов
-payload[].utmTerm - utm_term
-payload[].audition - прослушана-ли запись звонка из ЛК КТ
-payload[].callType - тип звонка
-payload[].clientIp - ip клиента
-payload[].duration - продолжительность звонка
-payload[].timeStart - дата начала звонка
-payload[].utmMedium - utm_medium
-payload[].utmSource - utm_source
-payload[].campaignId - id кампании
-payload[].officeName - название офиса
-payload[].routePhone - номер коллтрекинга
-payload[].sourceType - тип источника
-payload[].utmContent - utm_content
-payload[].clientPhone - номер телефона клиента
-payload[].officePhone - номер телефона офиса
-payload[].utmCampaign - utm_campaign
-payload[].campaignName - название кампании
-payload[].stateDescription - описание статуса
+- payload[].city - город клиента
+- payload[].site - сайт
+- payload[].state - статус звонка
+- payload[].callId - идентификатор звонка 
+- payload[].device - устройство
+- payload[].record - запись звонка
+- payload[].region - регион
+- payload[].tagsId - массив id тэгов
+- payload[].utmTerm - utm_term
+- payload[].audition - прослушана-ли запись звонка из ЛК КТ
+- payload[].callType - тип звонка
+- payload[].clientIp - ip клиента
+- payload[].duration - продолжительность звонка
+- payload[].timeStart - дата начала звонка
+- payload[].utmMedium - utm_medium
+- payload[].utmSource - utm_source
+- payload[].campaignId - id кампании
+- payload[].officeName - название офиса
+- payload[].routePhone - номер коллтрекинга
+- payload[].sourceType - тип источника
+- payload[].utmContent - utm_content
+- payload[].clientPhone - номер телефона клиента
+- payload[].officePhone - номер телефона офиса
+- payload[].utmCampaign - utm_campaign
+- payload[].campaignName - название кампании
+- payload[].stateDescription - описание статуса
