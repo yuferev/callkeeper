@@ -7,9 +7,9 @@
 
 ## Callkeeper
 * [CKAction](documentation/ckaction#CKAction)
-* [Настройка целей в GA](documentation/callkeeper_events/Настройка целей по событиям CallKeeper в Google Analytics.pdf)
-* [Отчеты по событиям в GA](documentation/callkeeper_events/Отчеты по событиям CallKeeper в Google Analytics.pdf)
-* [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/Отслеживание событий CallKeeper в Яндекс.Метрике.pdf)
+* [Настройка целей в GA](documentation/callkeeper_events/events-GA.pdf)
+* [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
+* [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
 
 ### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
