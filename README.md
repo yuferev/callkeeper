@@ -13,6 +13,7 @@
 
 #### Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
+* [Google Lead Form](documentation/integrations/google/google_lead_form.md)
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ru.md#Настройка-интеграции-с-Facebook-LeadAds)
 * [VK Leads](/documentation/integrations/vk_leads/vk_leads_ru.md#Интеграция-с-VK-Leads)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
