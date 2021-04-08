@@ -1,6 +1,6 @@
 ## Метод получения звонков пользователя
 
-!!(blue)https!!!!(blue)://!!!!(blue)ckct!!!!(blue).!!!!(blue)ru!!!!(blue)/!!!!(blue)api!!!!(blue)/!!!!(blue)index!!!!(blue).!!!!(blue)php!!!!(blue)?{!!!!(blue){!!!!(blue)format!!!!(blue)}}/{{!!!!(blue)version!!!!(blue)}}/{{!!!!(blue)api!!!!(blue)_!!!!(blue)key!!!!(blue)}}/!!!!(blue)call!!!!(blue)/!!!!(blue)get!!!!(blue)/{{!!!!(blue)page!!!!(blue)}}/{{!!!!(blue)time!!!!(blue)_!!!!(blue)start!!!!(blue)}}/{{!!!!(blue)time!!!!(blue)_!!!!(blue)end!!!!(blue)}}!!
+https://ckct.ru/api/index.php?format/version/api_key/call/get/page/time_start/time_end
 
 * format  — формат возвращаемых данных, может быть равен: xml, json, plain,  csv
 * version — версия  API
