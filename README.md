@@ -11,7 +11,6 @@ ___
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
-* [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#автозвонок-по-неуспешным-звонкам-на-calltracking)
 ___
 ## Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
@@ -25,3 +24,4 @@ ___
 * [Инструмент webhook](/documentation/webhooks/webhooks.md#webhooks--вебхуки)
 * [CKAction](documentation/ckaction#CKAction)
 * [API CallKeeper](http://api.callkeeper.ru/getDocObsolete)
+* [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#автозвонок-по-неуспешным-звонкам-на-calltracking)
