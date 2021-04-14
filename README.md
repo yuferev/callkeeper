@@ -1,15 +1,15 @@
 # Документация CallKeeper | CallTracking
 * [Глоссарий](/documentation/glossary/glossary_ru.md)
+* [API CallKeeper](http://api.callkeeper.ru/getDoc)
+
 ___
 ## Callkeeper
-* [API CallKeeper](http://api.callkeeper.ru/getDoc)
 * [Настройка целей в GA](documentation/callkeeper_events/events-GA.pdf)
 * [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
 * [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
 * [SIP](/documentation/introduction_sip.pdf)
 ___
 ## Calltracking
-* [API Calltracking](/documentation/api/api_methods/ckct/api_ckct.md)
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
 * [Автозвонок по неуспешным дозвонам](/documentation/calltracking/recall_from_calltracking_client.md#автозвонок-по-неуспешным-звонкам-на-calltracking)
 ___
