@@ -1,6 +1,6 @@
 # Документация CallKeeper | CallTracking
 * [Глоссарий](/documentation/glossary/glossary_ru.md)
-* [API CallKeeper](http://api.callkeeper.ru/getDoc)
+* [API](http://api.callkeeper.ru/getDoc)
 
 ___
 ## Callkeeper
