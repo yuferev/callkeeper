@@ -27,7 +27,7 @@ ___
 * [albato](/documentation/integrations/albato/albato.md)
 * [amoCRM](/documentation/integrations/amoCRM/amo.md)
 * [Callscoring](/documentation/integrations/callkeeper-callscoring/callkeeper-callscoring.md)
-* [mango](/documentation/integrations/mango/readme.md)
+* [mango](/documentation/integrations/mango/README.md)
 * [perx](/documentation/integrations/perx/perx.md)
 * [roistat](/documentation/integrations/roistat/roistat.md)
 * [smartpoint](/documentation/integrations/smartpoint/smartpoint.md)
