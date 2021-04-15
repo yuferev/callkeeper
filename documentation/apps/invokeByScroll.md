@@ -15,6 +15,6 @@
 2. Вызвать консоль, ввести pageYOffset, нажать на Enter
 3. Скопировать значение pageYOffset и вставить в продвинутые настройки
 
-![Рис.1](apps/picture1.png)
-![Рис.2](apps/picture2.png)
-![Рис.3](apps/picture3.png)
+![Рис.1](picture1.png)
+![Рис.2](picture2.png)
+![Рис.3](picture3.png)
