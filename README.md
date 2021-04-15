@@ -25,7 +25,7 @@ ___
 * [IgnitionOne](/documentation/integrations/IgnitionOne/IgnitionOne.md)
 * [TradeDealer](/documentation/integrations/TradeDealer/TradeDealer.md)
 * [albato](/documentation/integrations/albato/albato.md)
-* [amoCRM](/documentation/integrations/amoCRM/amoCRM.md)
+* [amoCRM](/documentation/integrations/amoCRM/amo.md)
 * [Callscoring](/documentation/integrations/callkeeper-callscoring/callkeeper-callscoring.md)
 * [mango](/documentation/integrations/mango/readme.md)
 * [perx](/documentation/integrations/perx/perx.md)
