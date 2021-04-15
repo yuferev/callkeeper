@@ -8,6 +8,7 @@ ___
 * [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
 * [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
 * [SIP](/documentation/introduction_sip.pdf)
+* [Длительность звонка / Обход IVR](/documentation/telephony/callsWithoutIVR.md)
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
