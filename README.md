@@ -12,6 +12,7 @@ ___
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
+* [Подмена номера на сайте по "номеру"](/documentation/calltracking/replaceByNumber.md)
 ___
 ## Интеграции
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
