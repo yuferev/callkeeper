@@ -19,6 +19,18 @@ ___
 * [VK Leads](/documentation/integrations/vk_leads/vk_leads_ru.md#Интеграция-с-VK-Leads)
 * [Bitrix24](/documentation/integrations/bitrix/bitrix24.md)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
+* [APIX-Drive](/documentation/integrations/APIX-DRIVE/APIX-DRIVE.md)
+* [AutoCRM](/documentation/integrations/AutoCRM/AutoCRM.md)
+* [Autospot](/documentation/integrations/Autospot/Autospot.md)
+* [IgnitionOne](/documentation/integrations/IgnitionOne/IgnitionOne.md)
+* [TradeDealer](/documentation/integrations/TradeDealer/TradeDealer.md)
+* [albato](/documentation/integrations/albato/albato.md)
+* [amoCRM](/documentation/integrations/amoCRM/amoCRM.md)
+* [Callscoring](/documentation/integrations/callkeeper-callscoring/callkeeper-callscoring.md)
+* [mango](/documentation/integrations/mango/readme.md)
+* [perx](/documentation/integrations/perx/perx.md)
+* [roistat](/documentation/integrations/roistat/roistat.md)
+* [smartpoint](/documentation/integrations/smartpoint/smartpoint.md)
 ___
 ## Устарело
 * [Инструмент webhook](/documentation/webhooks/webhooks.md#webhooks--вебхуки)
