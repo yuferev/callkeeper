@@ -2,6 +2,9 @@
 * [Глоссарий](/documentation/glossary/glossary_ru.md)
 * [API](http://api.callkeeper.ru/getDoc)
 
+## Аналитика
+* [Модель атрибуции](documentation/calltracking/attribution-model.md)
+
 ___
 ## Callkeeper
 * [Вызов инструментов по скроллу](documentation/apps/invokeByScroll.md)
