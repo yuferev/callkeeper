@@ -3,7 +3,7 @@
 * [API](http://api.callkeeper.ru/getDoc)
 
 ## Аналитика
-* [Модель атрибуции](documentation/calltracking/attribution-model.md)
+* [Модель атрибуции](documentation/calltracking/attribution_model.md)
 
 ___
 ## Callkeeper
