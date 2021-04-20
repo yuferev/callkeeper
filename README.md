@@ -13,7 +13,7 @@ ___
 * [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
 * [SIP](/documentation/introduction_sip.pdf)
 * [Длительность звонка / Обход IVR](/documentation/telephony/callsWithoutIVR.md)
-* [Подключение нескольких скриптов на сайт](/documentation/apps/Настройка подключения нескольких кодов на сайт (JQuery).pdf)
+* [Подключение нескольких скриптов на сайт](/documentation/apps/Настройка подключения нескольких кодов на сайт.pdf)
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
