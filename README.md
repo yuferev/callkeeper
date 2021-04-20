@@ -28,6 +28,7 @@ ___
 * [VK Leads](/documentation/integrations/vk_leads/vk_leads_ru.md#Интеграция-с-VK-Leads)
 * [Bitrix24](/documentation/integrations/bitrix/bitrix24.md)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
+* [Comagic](/documentation/integrations/comagic/Comagic.pdf)
 * [APIX-Drive](/documentation/integrations/APIX-DRIVE/APIX-DRIVE.md)
 * [AutoCRM](/documentation/integrations/AutoCRM/AutoCRM.MD)
 * [Autospot](/documentation/integrations/Autospot/Autospot.md)
