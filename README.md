@@ -14,6 +14,7 @@ ___
 * [SIP](/documentation/introduction_sip.pdf)
 * [Длительность звонка / Обход IVR](/documentation/telephony/callsWithoutIVR.md)
 * [Подключение нескольких скриптов на сайт](/documentation/apps/multiscript.pdf)
+* [Если не проходит DTMF](/documentation/integrations/dtmf/dtmf.pdf)
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
