@@ -16,6 +16,7 @@ ___
 * [Длительность звонка / Обход IVR](/documentation/telephony/callsWithoutIVR.md)
 * [Подключение нескольких скриптов на сайт](/documentation/apps/multiscript.pdf)
 * [Если не проходит DTMF](/documentation/integrations/dtmf/dtmf.pdf)
+* [Инструмент iForm](/documentation/iform/iform.pdf)
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
