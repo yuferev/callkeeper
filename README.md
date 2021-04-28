@@ -9,6 +9,7 @@
 ___
 ## Callkeeper
 * [Как проверить состояние CallKeeper](documentation/apps/ck_status.pdf)
+* [Как настроить график работы в праздники](documentation/apps/widget/daysoff.pdf)
 * [Расшифровка статусов звонков](documentation/telephony/callstatus.md)
 * [Вызов инструментов по скроллу](documentation/apps/invokeByScroll.md)
 * [Настройка целей в GA](documentation/callkeeper_events/events-GA.pdf)
