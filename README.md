@@ -46,6 +46,7 @@ ___
 * [perx](/documentation/integrations/perx/perx.md)
 * [roistat](/documentation/integrations/roistat/roistat.md)
 * [smartpoint](/documentation/integrations/smartpoint/smartpoint.md)
+* [Браузерная интеграция](/documentation/integrations/browser/browser_int.pdf)
 ___
 ## Устарело
 * [Инструмент webhook](/documentation/webhooks/webhooks.md#webhooks--вебхуки)
