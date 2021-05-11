@@ -20,6 +20,7 @@ ___
 * [Подключение нескольких скриптов на сайт](/documentation/apps/multiscript.pdf)
 * [Если не проходит DTMF](/documentation/integrations/dtmf/dtmf.pdf)
 * [Инструмент iForm](/documentation/iform/iform.pdf)
+* [Описание метазаполнителей](/documentation/apps/metafillers.pdf)
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
