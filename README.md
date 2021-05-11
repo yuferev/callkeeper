@@ -29,6 +29,7 @@ ___
 * [Подмена номера на сайте по "номеру"](/documentation/calltracking/replaceByNumber.md)
 ___
 ## Интеграции
+* [Серверная интеграция](/documentation/integrations/server/server-integrations.pdf)
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
 * [Яндекс.Метрика](/documentation/integrations/metrika/metrika.md)
 * [Google Lead Form](documentation/integrations/google/google_lead_form.md)
