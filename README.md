@@ -12,6 +12,7 @@ ___
 * [Как настроить график работы в праздники](documentation/apps/widget/daysoff.pdf)
 * [Расшифровка статусов звонков](documentation/telephony/callstatus.md)
 * [Вызов инструментов по скроллу](documentation/apps/invokeByScroll.md)
+* [Требования к лидогенераторам](documentation/apps/leadgen/leadgen-requirements.pdf)
 * [Настройка целей в GA](documentation/callkeeper_events/events-GA.pdf)
 * [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
 * [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
