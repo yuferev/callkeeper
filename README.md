@@ -11,6 +11,7 @@ ___
 * [Как проверить состояние CallKeeper](documentation/apps/ck_status.pdf)
 * [Как настроить график работы в праздники](documentation/apps/widget/daysoff.pdf)
 * [Как настроить пользовательский текст на виджете](documentation/apps/widget/custom-text.pdf)
+* [Создание специфичного макета виджета](/documentation/apps/widget/design-template.md)
 * [Расшифровка статусов звонков](documentation/telephony/callstatus.md)
 * [Вызов инструментов по скроллу](documentation/apps/invokeByScroll.md)
 * [Требования к лидогенераторам](documentation/apps/leadgen/leadgens-requirements.pdf)
