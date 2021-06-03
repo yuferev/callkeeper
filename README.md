@@ -53,6 +53,7 @@ ___
 * [roistat](/documentation/integrations/roistat/roistat.md)
 * [smartpoint](/documentation/integrations/smartpoint/smartpoint.md)
 * [Браузерная интеграция](/documentation/integrations/browser/browser_int.pdf)
+* [Формы KIA](/documentation/integrations/kia-forms/kia-forms.md)
 ___
 ## Устарело
 * [Инструмент webhook](/documentation/webhooks/webhooks.md#webhooks--вебхуки)
