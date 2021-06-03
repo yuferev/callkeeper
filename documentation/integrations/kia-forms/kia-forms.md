@@ -44,5 +44,5 @@ ___
 * [По работе с формами](./forms.pdf)
 * [По работе со скриптами](./scripts.pdf)
 * [По работе с аналитикой](./analytics.pdf)
-* [По настройке Googla Analytics, Yandex](./google-yandex-gtm.pdf)
+* [По настройке Google Analytics, Yandex](./google-yandex-gtm.pdf)
 
