@@ -31,6 +31,7 @@ ___
 ___
 ## Интеграции
 * [Серверная интеграция](/documentation/integrations/server/server-integrations.pdf)
+* [Tick-Tok](/documentation/integrations/Tik-Tok/Tik-Tok.md)
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
 * [Яндекс.Метрика](/documentation/integrations/metrika/metrika.md)
 * [Google Lead Form](documentation/integrations/google/google_lead_form.md)
