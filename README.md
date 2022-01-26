@@ -37,7 +37,6 @@ ___
 * [Google Lead Form](documentation/integrations/google/google_lead_form.md)
 * [Facebook LeadAds](documentation/integrations/facebook/facebook_ru.md#Настройка-интеграции-с-Facebook-LeadAds)
 * [VK Leads](/documentation/integrations/vk_leads/vk_leads_ru.md#Интеграция-с-VK-Leads)
-* [VK Calls](/documentation/integrations/vkCalls/VkCalls.pdf)
 * [Bitrix24](/documentation/integrations/bitrix/bitrix24.md)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
@@ -57,6 +56,7 @@ ___
 <!-- * [Формы KIA](/documentation/integrations/kia-forms/kia-forms.md) -->
 ___
 ## Устарело
+* [VK Calls](/documentation/integrations/vkCalls/VkCalls.pdf)
 * [Инструмент webhook](/documentation/webhooks/webhooks.md#webhooks--вебхуки)
 * [CKAction](documentation/ckaction#CKAction)
 * [API CallKeeper](http://api.callkeeper.ru/getDocObsolete)
