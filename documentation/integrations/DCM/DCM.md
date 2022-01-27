@@ -60,7 +60,7 @@
 
 4)Категория конверсии (cat) – цифры и латинские буквы. Что бы её получить, необходимо создать в разделе Activities - Advanced properties новую сущность, категория конверсии это Activity tag string
 
-![Рис.11](images/cat_1.png)
+![Рис.11](images/cat_2.png)
 
    ![Рис.12](images/skript_2.jpg)
 
