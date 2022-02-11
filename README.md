@@ -41,7 +41,7 @@ ___
 * [Bitrix24](/documentation/integrations/bitrix/README.md)
 * [Calltouch](/documentation/integrations/calltouch/README.md)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
-* [APIX-Drive](/documentation/integrations/README.md)
+* [APIX-Drive](/documentation/integrations/APIX-DRIVE/README.md)
 * [AutoCRM](/documentation/integrations/AutoCRM/README.MD)
 * [Autospot](/documentation/integrations/Autospot/README.md)
 * [IgnitionOne](/documentation/integrations/IgnitionOne/README.md)
