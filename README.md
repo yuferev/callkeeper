@@ -42,7 +42,7 @@ ___
 * [Calltouch](/documentation/integrations/calltouch/README.md)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
 * [APIX-Drive](/documentation/integrations/APIX-DRIVE/README.md)
-* [AutoCRM](/documentation/integrations/AutoCRM/README.MD)
+* [AutoCRM](/documentation/integrations/amoCRM/README.md)
 * [Autospot](/documentation/integrations/Autospot/README.md)
 * [IgnitionOne](/documentation/integrations/IgnitionOne/README.md)
 * [TradeDealer](/documentation/integrations/TradeDealer/README.md)
