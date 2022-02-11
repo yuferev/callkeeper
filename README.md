@@ -30,7 +30,7 @@ ___
 * [Подмена номера на сайте по "номеру"](/documentation/calltracking/replaceByNumber.md)
 ___
 ## Интеграции
-* [DCM](/documentation/integrations/DCM/DCM.md)                                 
+* [DCM](/documentation/integrations/DCM/README.md)                                 
 * [Facebook Calls](/documentation/integrations/facebook_new/README.md)
 * [Серверная интеграция](/documentation/integrations/server/server-integrations.pdf)
 * [myTarget](/documentation/integrations/mytarget/mytarget.md#Настройка-интеграции-с-myTarget-Lead-Ads)
