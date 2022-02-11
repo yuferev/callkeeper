@@ -27,7 +27,7 @@ ___
 ___
 ## Calltracking
 * [Инструкция Calltracking](/documentation/calltracking/calltracking_instruction.md#Работа-с-сервисом-Calltracking)
-* [Подмена номера на сайте по "номеру"](/documentation/calltracking/replaceByNumber.md)
+* [Подмена номера на сайте по "номеру"](/documentation/calltracking/README.md)
 ___
 ## Интеграции
 * [DCM](/documentation/integrations/DCM/README.md)                                 
