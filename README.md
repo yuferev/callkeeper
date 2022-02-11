@@ -54,7 +54,7 @@ ___
 * [roistat](/documentation/integrations/roistat/roistat.md)
 * [smartpoint](/documentation/integrations/smartpoint/smartpoint.md)
 * [Браузерная интеграция](/documentation/integrations/browser/browser_int.pdf)
-* [Tik-tok leads](/documentation/integrations/Tik-Tok/Tik-Tok.md)
+* [Tik-tok leads](/documentation/integrations/Tik-Tok/README.md)
 <!-- * [Формы KIA](/documentation/integrations/kia-forms/kia-forms.md) -->
 ___
 ## Устарело
