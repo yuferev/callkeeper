@@ -39,7 +39,7 @@ ___
 * [Google Lead Form](documentation/integrations/google/README.md)
 * [VK Leads](/documentation/integrations/vk_leads/README.md)
 * [Bitrix24](/documentation/integrations/bitrix/README.md)
-* [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
+* [Calltouch](/documentation/integrations/calltouch/README.md)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
 * [APIX-Drive](/documentation/integrations/APIX-DRIVE/README.md)
 * [AutoCRM](/documentation/integrations/AutoCRM/AutoCRM.MD)
