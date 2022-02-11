@@ -48,7 +48,7 @@ ___
 * [TradeDealer](/documentation/integrations/TradeDealer/README.md)
 * [albato](/documentation/integrations/albato/README.md)
 * [amoCRM](/documentation/integrations/amoCRM/README.md)
-* [Callscoring](/documentation/integrations/README.md)
+* [Callscoring](/documentation/integrations/callkeeper-callscoring/README.md)
 * [mango](/documentation/integrations/mango/README.md)
 * [perx](/documentation/integrations/perx/README.md)
 * [roistat](/documentation/integrations/roistat/README.md)
