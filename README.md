@@ -1,7 +1,7 @@
 # Документация CallKeeper | CallTracking
 * [Глоссарий](/documentation/glossary/glossary_ru.md)
 * [API](http://api.callkeeper.ru/getDoc)
-* [Отправка вебхуков](documentation/webhooks/wh.md)
+* [Отправка вебхуков](/documentation/webhooks/README.md)
 
 ## Аналитика
 * [Модель атрибуции](documentation/calltracking/attribution_model.md)
