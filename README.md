@@ -37,7 +37,7 @@ ___
 * [Отправка данных по звонкам в Яндекс.Метрику](/documentation/integrations/Yandex_metrika/README.md)
 * [Сбор статистики по рекламным компаниям Яндекс.Метрики](/documentation/integrations/metrika/README.md)
 * [Google Lead Form](documentation/integrations/google/README.md)
-* [VK Leads](/documentation/integrations/vk_leads/vk_leads_ru.md#Интеграция-с-VK-Leads)
+* [VK Leads](/documentation/integrations/vk_leads/README.ma)
 * [Bitrix24](/documentation/integrations/bitrix/bitrix24.md)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
