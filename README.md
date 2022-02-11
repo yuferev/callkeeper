@@ -38,7 +38,7 @@ ___
 * [Сбор статистики по рекламным компаниям Яндекс.Метрики](/documentation/integrations/metrika/README.md)
 * [Google Lead Form](documentation/integrations/google/README.md)
 * [VK Leads](/documentation/integrations/vk_leads/README.md)
-* [Bitrix24](/documentation/integrations/bitrix/bitrix24.md)
+* [Bitrix24](/documentation/integrations/bitrix/README.md)
 * [Calltouch](/documentation/integrations/calltouch/calltouch.md#интеграция-с-calltouch)
 * [Comagic](/documentation/integrations/comagic/Comagic.pdf)
 * [APIX-Drive](/documentation/integrations/APIX-DRIVE/README.md)
