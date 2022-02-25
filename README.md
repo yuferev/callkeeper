@@ -31,7 +31,7 @@ ___
 ___
 ## Интеграции
 * [DCM](/documentation/integrations/DCM/README.md)
-* [Tik-Tok](/documentation/integrations/Tik-Tok/)                                 
+* [TikTok](/documentation/integrations/Tik-Tok/)                                 
 * [Facebook Calls](/documentation/integrations/facebook_new/README.md)
 * [Серверная интеграция](/documentation/integrations/server/server-integrations.pdf)
 * [myTarget](/documentation/integrations/mytarget/README.md)
