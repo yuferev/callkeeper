@@ -21,7 +21,7 @@
 **Привязать аккаунта Google в Личном кабинете CallTraking**
 - зайти в личный кабинет CallTraking
 ![Рис.1](images/LK_CT_1.jpg)
-- Перейдите по ссылке https://ckct.ru/dev/lk/integrations в раздел Интеграции в личном кабинете Callkeeper и нажать подключить:
+- Перейдите по ссылке https://ckct.ru/dev/lk/integrations в раздел Интеграции в личном кабинете Calltracking:
 ![Рис.2](images/VkladIn_1.png)
 - найти в списке интеграций Double Click и нажать " подключить "
 ![Рис.3](images/Inter_DCM.jpg)
