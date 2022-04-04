@@ -15,7 +15,7 @@ ___
 * [Расшифровка статусов звонков](documentation/telephony/callstatus.md)
 * [Вызов инструментов по скроллу](documentation/apps/invokeByScroll.md)
 * [Требования к лидогенераторам](documentation/apps/leadgen/leadgens-requirements.pdf)
-* [Настройка целей в GA](documentation/callkeeper_events/events-GA.pdf)
+* [Настройка целей в GA](documentation/callkeeper_events/Google_Analytics/README.md)
 * [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
 * [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
 * [SIP](/documentation/introduction_sip.pdf)
