@@ -17,7 +17,7 @@ ___
 * [Требования к лидогенераторам](documentation/apps/leadgen/leadgens-requirements.pdf)
 * [Настройка целей в GA](documentation/callkeeper_events/Google_Analytics/README.md)
 * [Отчеты по событиям в GA](documentation/callkeeper_events/GA-events-report.pdf)
-* [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika.pdf)
+* [Отслеживание событий в Яндекс.Метрике](documentation/callkeeper_events/events-Metrika/README.md)
 * [SIP](/documentation/introduction_sip.pdf)
 * [Длительность звонка / Обход IVR](/documentation/telephony/callsWithoutIVR.md)
 * [Подключение нескольких скриптов на сайт](/documentation/apps/multiscript.pdf)
