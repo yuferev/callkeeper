@@ -164,7 +164,7 @@ calltracking_call_order — звонок коллтрекинга
 
 callkeeper-call_order — составная цель заказа звонка для следующих событий:
 
-callkeeper-call_order-iform — заказан звонок с помощью метода iForm.
+callkeeper-call_order-iform — заказан звонок с помощью метода iForm
 
 callkeeper-call_order-portable
 
