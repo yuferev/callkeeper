@@ -149,8 +149,6 @@ callkeeper-link_#-mobile — клик на дополнительную икон
 
 **Обработка форм на сайте**
 
-callkeeper-call_order-iform — заказан звонок с помощью метода iForm.
-
 callkeeper-call_order-formaction — заказан звонок с помощью метода FormAction.
 
 callkeeper-call_order-ckaction — заказан звонок с помощью метода CKAction (событие настраивается клиентом)
@@ -162,9 +160,11 @@ callkeeper-call_order-ckaction — заказан звонок с помощью
 
 calltracking_call_order — звонок коллтрекинга
 
-Составная цель для звонков
+**Составная цель для звонков**
 
 callkeeper-call_order — составная цель заказа звонка для следующих событий:
+
+callkeeper-call_order-iform — заказан звонок с помощью метода iForm.
 
 callkeeper-call_order-portable
 
