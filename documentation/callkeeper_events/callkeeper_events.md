@@ -63,6 +63,13 @@
 -   callkeeper-call_order-ckapp – заказан звонок с CKAPP
     
 -   callkeeper-open-ckapp – открыта страница CKAPP
+
+-   callkeeper-open-widgetform — Открыто окно ВиджетФормы (кастомная форма)
+
+-   callkeeper-close-widgetform — Закрытие окна ВиджетФормы
+
+-   callkeeper-call_order-widgetform — Заказан звонок с ВиджетаФормы. (кастомная форма)
+
     
 
 ## События, отправляемые для Google analytics с сервера
@@ -111,6 +118,8 @@
 -   vkontakte
     
 -   formaction
+
+-   widgetform
     
 
 ## События, отправляемые для Google analytics с сайта клиента
@@ -168,6 +177,8 @@
 -   formaction
     
 -   ckapp
+
+-   widgetform
     
 
 ## События, отправляемые для dataLayer с сайта клиента
@@ -233,6 +244,13 @@
 -   callkeeper-call_order-ckapp
     
 -   callkeeper-open-ckapp
+
+-   callkeeper-open-widgetform
+
+-   callkeeper-close-widgetform 
+
+-   callkeeper-call_order-widgetform
+
     
 
 #### категория (eventCategory)
@@ -284,6 +302,7 @@
 -   formaction
     
 -   ckapp
+-   widgetform
     
 
 ## Расшифровка событий
@@ -362,3 +381,5 @@
 -   lg = звонок через лидогенератор
     
 -   ckapp = звонок через Ad progressive pages
+
+-   widgetform = звонок через ВиджетФорму
