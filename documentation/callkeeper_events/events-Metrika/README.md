@@ -55,7 +55,15 @@ callkeeper-close-videowidget — закрытие инструмента, отк
 
 callkeeper-call_order-videowidget — заказан звонок с виджета, открытого через видеовиджет.
 
+callkeeper-open-widgetform — открыто окно ВиджетФормы.
+
+callkeeper-close-widgetform — закрыто окно ВиджетФормы.
+
+callkeeper-call_order-widgetform — заказан звонок с ВиджетФормы.
+
+
 **Мобильные инструменты CallKeeper**
+
 callkeeper-open-portable — открыта мобильная версия виджета V1.
 
 callkeeper-close-portable — закрыта мобильная версия виджета V1.
@@ -180,6 +188,8 @@ callkeeper-call_order-mobile
 callkeeper-call_order-form
 
 callkeeper-call_order-videowidget
+
+callkeeper-call_order-widgetform - заказан звонок с ВиджетФормы.
 
 Обратите внимание, что portable и mobile относятся к смартфонам и мобильным устройствам. У всех событий регистр написания нижний.
 
